@@ -15,4 +15,3 @@ cat("User input as integer:", getintinpt(), "\n\n")
 cat("Test Case 3: User input is '7'\n")
 cat("User input as integer:", getintinpt(), "\n\n")
 
-"Parizaa 23BCE0760"
