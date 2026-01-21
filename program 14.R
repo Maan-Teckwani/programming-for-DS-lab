@@ -14,4 +14,3 @@ print(check_odd_even(0))    # Test with zero
 print(check_odd_even(-10))  # Test with a negative even number
 print(check_odd_even(-3))   # Test with a negative odd number  
 
-"Parizaa 23BCE0760"
