@@ -16,4 +16,3 @@ cat("Full name for Alice and Smith:", name2, "\n")
 cat("Full name for Rahul and Sharma:", name3, "\n")
 cat("Full name for Emily and Blunt:", name4, "\n")
 
-"Parizaa 23BCE0760"
