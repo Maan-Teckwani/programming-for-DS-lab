@@ -23,4 +23,3 @@ generate_fibonacci(5)   # Test with 5 terms
 generate_fibonacci(10)  # Test with 10 terms
 generate_fibonacci(20)  # Test with 20 terms  
 
-"Parizaa 23BCE0760"
