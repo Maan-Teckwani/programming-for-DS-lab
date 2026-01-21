@@ -16,4 +16,3 @@ cat("25 degrees Celsius is", temp2, "degrees Fahrenheit\n")
 cat("-10 degrees Celsius is", temp3, "degrees Fahrenheit\n")
 cat("100 degrees Celsius is", temp4, "degrees Fahrenheit\n")
 
-"Parizaa 23BCE0760"
