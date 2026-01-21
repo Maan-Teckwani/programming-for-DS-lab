@@ -15,4 +15,3 @@ cat("Result of multiplying -3 and 7:", result2, "\n")
 cat("Result of multiplying 0 and 0:", result3, "\n")
 cat("Result of multiplying 3.5 and 2.1:", result4, "\n")
 
-"Parizaa 23BCE0760"
