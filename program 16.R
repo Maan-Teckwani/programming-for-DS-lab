@@ -13,5 +13,4 @@ print(is_leap_year(2023))  # Test with a common year
 print(is_leap_year(2000))  # Test with a leap year divisible by 400
 print(is_leap_year(1900))  # Test with a common year divisible by 100  
 
-"Parizaa 23BCE0760"
 
