@@ -15,4 +15,3 @@ cat("User input as integer:", getfloatinpt(), "\n\n")
 cat("Test Case 3: User input is '0.001'\n")
 cat("User input as integer:", getfloatinpt(), "\n\n")
 
-"Parizaa 23BCE0760"
