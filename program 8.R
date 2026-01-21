@@ -16,4 +16,3 @@ cat("Area of circle with radius 5.5:", radius2, "\n")
 cat("Area of circle with radius 0:", radius3, "\n")
 cat("Area of circle with radius 7.2:", radius4, "\n")
 
-"Parizaa 23BCE0760"
