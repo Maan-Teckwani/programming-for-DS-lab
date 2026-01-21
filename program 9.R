@@ -17,4 +17,3 @@ cat("Square of -3: ", num2, "\n")
 cat("Square of 0: ", num3, "\n")
 cat("Square of 5.7: ", num4, "\n")
 
-"Parizaa 23BCE0760"
