@@ -14,4 +14,3 @@ cat("User input:", gettxtinpt(), "\n\n")
 cat("Test Case 3: User input is 'R programming'\n")
 cat("User input:", gettxtinpt(), "\n\n")
 
-"Parizaa 23BCE0760"
