@@ -16,4 +16,3 @@ cat("BMI for height 1.60m and weight 60kg:", bmi2, "\n")
 cat("BMI for height 1.80m and weight 85kg:", bmi3, "\n")
 cat("BMI for height 1.65m and weight 50kg:", bmi4, "\n")
 
-"Parizaa 23BCE0760"
